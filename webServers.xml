@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b79812be-156e-48a0-a8a2-69c12a3393c8" name="aliyun" url="http://60.205.154.9">
+        <fileTransfer rootFolder="/home/soft/nginx/html" accessType="SFTP" host="60.205.154.9" port="22" sshConfigId="375b0fe7-6609-4ab8-b576-256112e438cf" sshConfig="root@60.205.154.9:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
